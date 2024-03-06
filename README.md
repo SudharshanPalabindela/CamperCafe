@@ -54,4 +54,3 @@ aws s3 sync . s3://your-s3-bucket-name
 Acknowledgments
 Inspiration: FreeCode Camp 
 
-# Happy coding!
